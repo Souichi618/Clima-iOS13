@@ -52,3 +52,10 @@ switch conditionID {
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+
+Modification to Clima-IOS13 is done. Modification is as follows
+
+1.   Label display weather including Country name of City in form of [Cityname@Country]
+2.   Label for didsplaying humudity is added
+3.   Information related Country, ISO long name, and Abbreviation are displayed
+4.   Error code process
